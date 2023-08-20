@@ -1,3 +1,7 @@
-![Captura de tela 2023-08-20 200607](https://github.com/JM731/color-extractor/assets/137689384/47e70f19-776d-457e-a566-f6c3985e2f81)
-![Uploading Captura de tela 2023-08-20 200505.png…]()
-![Captura de tela 2023-08-20 200627](https://github.com/JM731/color-extractor/assets/137689384/9678b083-8dfb-48fa-ab28-d070ff29806e)
+Since I was unable to deploy the app, I will include some screenshots below.
+
+Home:
+![Captura de tela 2023-08-20 200505](https://github.com/JM731/color-extractor/assets/137689384/63038f6a-ec8b-45e2-9e06-013e5337b5de)
+
+Color Extraction:
+![Captura de tela 2023-08-20 200627](https://github.com/JM731/color-extractor/assets/137689384/cd32176f-c001-4a3d-92d7-872ca642b3bd)
