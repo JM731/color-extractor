@@ -1,4 +1,4 @@
-Since I was unable to deploy the app, I will include some screenshots below.
+Since I was unable to deploy the app, some screenshots were included below.
 
 Home:
 ![Captura de tela 2023-08-20 200505](https://github.com/JM731/color-extractor/assets/137689384/63038f6a-ec8b-45e2-9e06-013e5337b5de)
